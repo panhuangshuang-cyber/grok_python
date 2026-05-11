@@ -27,10 +27,10 @@ dl = None
 dl1 = None
 dl2 = None
 
-import matplotlib.pyplot as plt
-
 import random as rd
 rd.seed(42)
 import re
 
 connMy = "mysql://shuai260103:MT4LxRjSNPsj9vFt@mysql6.sqlpub.com:3311/urlmysql"
+dfgit = pd.read_csv("https://raw.githubusercontent.com/panhuangshuang-cyber/grok_python/main/0511.csv")
+dfgit

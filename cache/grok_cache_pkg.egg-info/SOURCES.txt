@@ -1,8 +1,0 @@
-constant_num.py
-constant_var.py
-data_setup.py
-pyproject.toml
-grok_cache_pkg.egg-info/PKG-INFO
-grok_cache_pkg.egg-info/SOURCES.txt
-grok_cache_pkg.egg-info/dependency_links.txt
-grok_cache_pkg.egg-info/top_level.txt
